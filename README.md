@@ -24,6 +24,8 @@ __________________________________
 
 Birth Date Calculator
 A beginner Python project that takes a name and birth date, validates day and month input, and calculates a Mulank number and suggest simple remedies.
+
+FILE:- numerology-birth-date.py
 ----------------------------------
 
 🟡 2nd project: # Student Report Card🟡
@@ -41,4 +43,6 @@ A beginner Python project that collects marks for 5 subjects and calculates:
 - Calculate percentage
 - Display grade
 - Check pass/fail
+
+FILE :- student-report-card.py
 ----------------------------------
