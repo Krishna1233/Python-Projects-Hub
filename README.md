@@ -17,11 +17,16 @@ To improve my Python programming skills, practice logical thinking, and build pr
 
 **Language:** Python
 
-More projects coming soon! 🚀
+More projects coming soon! 🚀__________________________________
+            •PROJECTS•
+__________________________________
+🟡 1st project: numerology birth date analyser with simple remedies calculate birth date mulank.🟡
 
-# 1st project: numerology birth date analyser with simple remedies calculate birth date mulank.
+Birth Date Calculator
+A beginner Python project that takes a name and birth date, validates day and month input, and calculates a Mulank number and suggest simple remedies.
+----------------------------------
 
-# 2nd project: # Student Report Card
+🟡 2nd project: # Student Report Card🟡
 
 A beginner Python project that collects marks for 5 subjects and calculates:
 - total marks
@@ -36,3 +41,4 @@ A beginner Python project that collects marks for 5 subjects and calculates:
 - Calculate percentage
 - Display grade
 - Check pass/fail
+----------------------------------
